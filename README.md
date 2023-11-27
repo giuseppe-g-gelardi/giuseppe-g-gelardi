@@ -1,6 +1,8 @@
 ### Hi there 👋
 
+<!--
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=giuseppe-g-gelardi&theme=material&border_radius=6)](https://git.io/streak-stats)
+-->
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giuseppe-g-gelardi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
@@ -9,7 +11,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on: ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
