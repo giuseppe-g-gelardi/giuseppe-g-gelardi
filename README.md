@@ -1,10 +1,12 @@
 ### Hi there 👋
 
+
 <!--
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=giuseppe-g-gelardi&theme=material&border_radius=6)](https://git.io/streak-stats)
 -->
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giuseppe-g-gelardi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giuseppe-g-gelardi&layout=compact&theme=tokyonights)](https://github.com/anuraghazra/github-readme-stats)
 -->
 <!--
 **giuseppe-g-gelardi/giuseppe-g-gelardi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
